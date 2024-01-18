@@ -1,16 +1,30 @@
-### Hi there 👋
+## Welcome to my GitHub profile 👋
 
-<!--
-**pericleschrstn/pericleschrstn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Péricles Christian, a professional passionate about the world of Web Development, born and raised in the Southeast region of Brazil. At 31 years old and trained in Graphic Design, I bring a unique perspective that combines aesthetics and functionality in my digital projects.
 
-Here are some ideas to get you started:
+Over the last 7 years, I have been improving my skills and expertise in web development, focusing on creating innovative digital solutions. My journey includes designing and implementing attractive and functional projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am constantly looking for exciting challenges in the field of development. If you share an interest in dynamic and innovative projects, or if you simply want to exchange ideas about the world of web development, I'm always open to new connections.
+
+## 🔭 I’m currently working with:
+- JavaScript
+- React
+- SCSS/SASS
+- E-learning
+- WordPress
+- Git
+- Agile Methodologies
+
+## 🌱 I’m currently learning:
+- Vue.js
+- TypeScript
+- Next.js
+  
+## 📫 How to reach me:
+Email: pericleschrstn@gmail.com
+  
+[![Behance](https://img.shields.io/badge/Behance-003ecb?style=for-the-badge&logo=behance)](URL_DO_SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pericleschristian/)
+
+## ⚡ Fun fact:
+
