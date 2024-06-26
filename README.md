@@ -8,17 +8,20 @@ I am constantly looking for exciting challenges in the field of development. If 
 
 ## 🔭 I’m currently working with:
 - JavaScript
+- TypeScript
+- Next.js
 - React
-- SCSS/SASS
-- E-learning
+- CSS/SCSS/SASS
+- HTML
 - WordPress
 - Git
 - Agile Methodologies
 
 ## 🌱 I’m currently learning:
-- Vue.js
-- TypeScript
-- Next.js
+- Node.js
+- MongoDB
+- Express
+
   
 ## 📫 How to reach me:
 Email: pericleschrstn@gmail.com
